@@ -76,6 +76,14 @@ To use this as an active skill in your Antigravity Agent environment:
 
 ---
 
+## 🔒 Git Commit & Sole Author Policy
+
+When committing and pushing changes in this repository:
+- **Sole Author Integrity:** All commits and git push actions must record exactly **one single author** (`git config user.name` and `user.email`).
+- **No Co-Authors Allowed:** Strictly prohibited from using `Co-authored-by:` git trailers or attributing multiple authors.
+
+---
+
 ## 📄 License
 
 MIT License. Feel free to use and modify in commercial and open-source projects.
