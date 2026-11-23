@@ -2,8 +2,15 @@
 
 > A production-grade framework and Agent Skill to minimize LLM token consumption, latency, and API costs while maximizing reasoning quality and system throughput.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Agent Skill Ready](https://img.shields.io/badge/Agent_Skill-Antigravity-orange.svg)](#antigravity-integration)
+[![GitHub Stars](https://img.shields.io/github/stars/Henry-19/llm-token-optimizer?style=for-the-badge&logo=github)](https://github.com/Henry-19/llm-token-optimizer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-0a0a0a.svg?style=for-the-badge)](https://skills.sh)
+
+## ⚡ Quick Install
+
+```bash
+npx skills add Henry-19/llm-token-optimizer -g
+```
 
 ---
 
